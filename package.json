@@ -10,6 +10,7 @@
   "dependencies": {
     "@distube/ytdl-core": "^4.13.3",
     "@neoxr/ytdl-core": "^4.11.5",
+    "1secmail-api": "^1.1.1",
     "axios": "^1.4.0",
     "bcrypt": "^5.0.1",
     "buffer-image-size": "^0.6.4",
@@ -37,6 +38,7 @@
     "https": "^1.0.0",
     "jimp": "^0.22.12",
     "jsonlint-mod": "^1.7.6",
+    "jsqr": "^1.4.0",
     "mal-scraper": "^2.13.1",
     "moment-timezone": "^0.5.34",
     "mongoose": "^6.3.1",
@@ -51,6 +53,7 @@
     "pastebin-js": "^1.0.6",
     "path": "^0.12.7",
     "prodia.js": "^2.1.5",
+    "qrcode": "^1.5.3",
     "qrcode-reader": "^1.0.4",
     "qs": "^6.11.0",
     "request": "^2.88.2",
@@ -64,7 +67,9 @@
     "totp-generator": "^0.0.13",
     "ultimate-guitar": "^1.0.3",
     "websocket-stream": "^5.5.2",
-    "yt-search": "^2.10.4"
+    "wikijs": "^6.4.1",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5"
   },
   "scripts": {
     "start": "set NODE_ENV=&& node index.js",

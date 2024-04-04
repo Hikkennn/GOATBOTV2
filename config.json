@@ -64,8 +64,8 @@
       "enable": true,
       "channelName": "uptime",
       "verifyToken": "AJ3mQqe9wrL8sF5NAwJuSteH",
-			"url": ""
-		}
+      "url": ""
+    }
   },
   "autoRestart": {
     "time": 3600000,
